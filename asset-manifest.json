@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://amarbv2002.github.io/csb-vvmd9z/static/css/main.e8c45756.chunk.css",
+    "main.js": "https://amarbv2002.github.io/csb-vvmd9z/static/js/main.0f4f5326.chunk.js",
+    "main.js.map": "https://amarbv2002.github.io/csb-vvmd9z/static/js/main.0f4f5326.chunk.js.map",
+    "runtime-main.js": "https://amarbv2002.github.io/csb-vvmd9z/static/js/runtime-main.834c49b2.js",
+    "runtime-main.js.map": "https://amarbv2002.github.io/csb-vvmd9z/static/js/runtime-main.834c49b2.js.map",
+    "static/css/2.cbedb215.chunk.css": "https://amarbv2002.github.io/csb-vvmd9z/static/css/2.cbedb215.chunk.css",
+    "static/js/2.30065eaf.chunk.js": "https://amarbv2002.github.io/csb-vvmd9z/static/js/2.30065eaf.chunk.js",
+    "static/js/2.30065eaf.chunk.js.map": "https://amarbv2002.github.io/csb-vvmd9z/static/js/2.30065eaf.chunk.js.map",
+    "index.html": "https://amarbv2002.github.io/csb-vvmd9z/index.html",
+    "static/css/2.cbedb215.chunk.css.map": "https://amarbv2002.github.io/csb-vvmd9z/static/css/2.cbedb215.chunk.css.map",
+    "static/css/main.e8c45756.chunk.css.map": "https://amarbv2002.github.io/csb-vvmd9z/static/css/main.e8c45756.chunk.css.map",
+    "static/js/2.30065eaf.chunk.js.LICENSE.txt": "https://amarbv2002.github.io/csb-vvmd9z/static/js/2.30065eaf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.834c49b2.js",
+    "static/css/2.cbedb215.chunk.css",
+    "static/js/2.30065eaf.chunk.js",
+    "static/css/main.e8c45756.chunk.css",
+    "static/js/main.0f4f5326.chunk.js"
+  ]
+}
